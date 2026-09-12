@@ -1,1 +1,1 @@
-trippy_multiply=product
+product=1*2
