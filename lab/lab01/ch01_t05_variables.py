@@ -1,1 +1,1 @@
-todays_data="13-09-2026"
+todays_data="2026-09-13"
