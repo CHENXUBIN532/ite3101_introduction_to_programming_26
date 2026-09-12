@@ -1,2 +1,2 @@
-PRODUCT=1*2
-remainder=1398%11
+PRODUCT = 1*2
+REMAINDER = 1398 % 11
