@@ -1,1 +1,1 @@
-trippy_multiply
+trippy_multiply=product
