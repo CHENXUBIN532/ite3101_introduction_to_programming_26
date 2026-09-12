@@ -1,1 +1,1 @@
-trippy_mu
+trippy_multiply
