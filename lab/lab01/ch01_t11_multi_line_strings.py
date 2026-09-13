@@ -1,1 +1,1 @@
-haiku=
+haiku="""""
