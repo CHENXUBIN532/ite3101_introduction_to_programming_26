@@ -1,2 +1,2 @@
 skill_completed=str(Python Syntax)
-exercises_completed
+exercises_completed=13
