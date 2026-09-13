@@ -1,1 +1,2 @@
-skill_completed
+skill_completed=str(Python Syntax)
+exercises_completed
