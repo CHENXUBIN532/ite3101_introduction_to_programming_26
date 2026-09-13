@@ -1,2 +1,3 @@
 haiku="""The old pond,
-a
+A frog jumps in:
+Plop!"""
