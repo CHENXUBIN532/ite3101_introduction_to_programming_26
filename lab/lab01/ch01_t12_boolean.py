@@ -2,6 +2,6 @@
 # I'm an expert Python coder.
 # I'm 21 years old and I plan to program cool stuff forever.
 a=True
-b=fail
+b=False
 age_is_12 = b
 name_is_maria = a
