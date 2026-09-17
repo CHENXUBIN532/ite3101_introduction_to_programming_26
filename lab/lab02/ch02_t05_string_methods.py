@@ -1,1 +1,1 @@
-parrot=
+parrot="Norwegian Blue"
