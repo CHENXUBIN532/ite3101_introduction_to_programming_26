@@ -1,4 +1,4 @@
-name = input("What is your name? ")
+name = xubin("What is your name? ")
 quest = input("What is your quest? ")
 color = input("What is your favorite color? ")
 
