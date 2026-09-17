@@ -1,1 +1,1 @@
-print
+parrot=
