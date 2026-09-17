@@ -10,6 +10,6 @@ numbered 0 to 5, as shown below:
 So if you wanted "Y", you could just type
 "PYTHON"[1] (always start counting from 0!)
 """
-fifth_letter = "MON"
+fifth_letter = "MONTY"
 
 print(fifth_letter)
