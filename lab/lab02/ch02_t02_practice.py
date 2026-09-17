@@ -6,4 +6,5 @@
 # print(praline)
 # print(viking)
 caesar="Graham"
-praline=
+praline="John"
+viking="Teresa"
