@@ -3,4 +3,4 @@ from datetime import datetime
 now = datetime.now()
 print(now)
 current_year=now.year
-print()
+print(current_year)
