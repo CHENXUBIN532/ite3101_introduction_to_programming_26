@@ -1,4 +1,4 @@
 from datetime import datetime
 
 now = datetime.now()
-print('%02d:%02')
+print('%02d:%02d:')
