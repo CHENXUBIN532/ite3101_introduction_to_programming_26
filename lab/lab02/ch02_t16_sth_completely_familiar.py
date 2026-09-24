@@ -2,3 +2,4 @@
 
 my_string='cowb'
 print(len(my_string))
+print(uper)
