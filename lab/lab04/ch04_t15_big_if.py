@@ -2,7 +2,7 @@
 def grade_converter(grade: int) -> str:
     if grade_converter=92 :
         return "A"
-    elif None:
+    elif :
         return "B"
     elif None:
         return "C"
