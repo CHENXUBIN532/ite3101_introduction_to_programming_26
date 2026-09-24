@@ -10,7 +10,7 @@ bool_two = (2==2) or 'ABC'=='AB'
 bool_three = (2==3) and 'abc'=='abc'
 
 # Make me true!
-bool_four = 
+bool_four = (2==2) not 'a'
 
 # Make me true!
 bool_five = None
