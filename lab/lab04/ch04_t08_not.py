@@ -1,9 +1,9 @@
 bool_one = not True
 
-bool_two = None
+bool_two = not 3 ** 4 < 4 ** 3
 
-bool_three = None
+bool_three = not 10 % 3 <= 10 % 2
 
-bool_four = None
+bool_four = not 3 ** 2 + 4 ** 2 != 5 ** 2
 
-bool_five = None
+bool_five = not not False
