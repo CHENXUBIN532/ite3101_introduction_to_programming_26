@@ -4,7 +4,7 @@
 bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
 
 # Make me true!
-bool_two = (2==2)and 'ABC'=='ABC'
+bool_two = (2==2) or 'ABC'=='AB'
 
 # Make me false!
 bool_three = (2)
