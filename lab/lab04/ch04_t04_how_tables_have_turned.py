@@ -10,7 +10,7 @@ bool_two = 5 > 6
 bool_three = 5 < 6
 
 # Make me false!
-bool_four = 1 <
+bool_four = 1 <0
 
 # Make me true!
-bool_five = None
+bool_five = 1
