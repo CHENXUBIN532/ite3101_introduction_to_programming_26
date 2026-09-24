@@ -4,6 +4,6 @@ bool_two =True or False
 
 bool_three = 100 ** 0.5 >= 50 or False
 
-bool_four = None
+bool_four = True or True
 
 bool_five = None
