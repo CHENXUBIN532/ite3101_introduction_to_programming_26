@@ -1,1 +1,1 @@
-pyg = pygay
+pyg = g
