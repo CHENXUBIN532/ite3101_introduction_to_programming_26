@@ -4,7 +4,7 @@ original = input('Enter a word:')
 
 if len(original) > 0 and original.isalpha() :
     word = the.string[0].lower()
-    first = word[]
+    first = word[0]
 
     print(original)
 
