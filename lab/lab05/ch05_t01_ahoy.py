@@ -1,1 +1,1 @@
-print('phraseay')
+print('Pig Latin')
