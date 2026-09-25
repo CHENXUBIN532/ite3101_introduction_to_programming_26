@@ -1,1 +1,1 @@
-pyg = g
+pyg = 'gypay'
