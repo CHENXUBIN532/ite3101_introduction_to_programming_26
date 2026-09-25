@@ -1,1 +1,1 @@
-pyg = 'gypay'
+pyg = 'ay'
