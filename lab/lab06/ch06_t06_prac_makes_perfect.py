@@ -2,4 +2,5 @@ def cube(number=float) :
     return cube**3
 
 def by_three(number=float):
-    if number
+    if number % 3 ==0
+       return
