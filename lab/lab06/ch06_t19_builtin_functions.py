@@ -1,5 +1,5 @@
-def distance_from_zero(is_numeric):
-    if type(is_numeric= (int or float):
+def distance_from_zero(num):
+    if type(num)== (int or float):
        return abs=abs(abs) 
     else :
         return None
