@@ -1,1 +1,2 @@
-def cube(number=float)
+def cube(number=float) :
+    
