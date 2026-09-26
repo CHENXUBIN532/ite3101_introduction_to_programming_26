@@ -1,4 +1,4 @@
-def shut_down(s:str) ：
+def shut_down(s:str) :
     if s =="yes":
        return "Shutting down"
     elif s=="no":
