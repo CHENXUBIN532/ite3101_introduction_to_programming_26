@@ -1,1 +1,2 @@
-def shut_down 
+def shut_down :
+    s
