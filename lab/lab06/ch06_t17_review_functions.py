@@ -1,2 +1,3 @@
 def shut_down(s:str)：
-    if s = 
+    if s = str"yes"
+ 
