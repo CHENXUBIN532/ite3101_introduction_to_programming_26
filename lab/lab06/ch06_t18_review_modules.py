@@ -3,4 +3,4 @@ print(sqrt(13689))
 
 
 
-math.sqrt()
+print (math.sqrt(1398))
