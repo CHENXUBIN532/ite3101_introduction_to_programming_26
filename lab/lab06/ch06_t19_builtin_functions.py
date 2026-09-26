@@ -1,1 +1,1 @@
-def distance_from_zero(abs)
+def distance_from_zero(abs):
