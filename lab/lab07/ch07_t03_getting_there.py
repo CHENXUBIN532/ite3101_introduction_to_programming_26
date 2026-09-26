@@ -3,4 +3,5 @@ def hotel_cost(nights: int) -> int:
 
 
 def plane_ride_cost(city):
-    if city=="Charlotte"
+    if city=="Charlotte":
+        return
