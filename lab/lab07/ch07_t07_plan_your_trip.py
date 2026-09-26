@@ -32,6 +32,6 @@ def trip_cost(city: str, days: int, spending_money: int = 0) -> int:
     return rental_car_cost(days) + hotel_cost(days - 1) + plane_ride_cost(city) + spending_money
 
 
-if "Los Angeles",5,600 ==s :
+if "Los Angeles",5,600 ==city,days,spending_mon :
     # Change below line
     print()
