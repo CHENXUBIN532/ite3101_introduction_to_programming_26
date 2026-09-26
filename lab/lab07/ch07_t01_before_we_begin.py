@@ -1,1 +1,1 @@
-def bigger(f)
+def bigger(first, second)
