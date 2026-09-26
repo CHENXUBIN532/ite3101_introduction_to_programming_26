@@ -6,4 +6,4 @@ def by_three(number=float):
        number=cube()
        return cube()
     else:
-        
+        return False
