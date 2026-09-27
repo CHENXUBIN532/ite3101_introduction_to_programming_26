@@ -12,5 +12,5 @@ del zoo_animals['Unicorn']
 # Your code here!
 del zoo_animals["Sloth"]
 del zoo_animals["Bengal Tiger"] 
-dict_zoo_
+dict_
 print(zoo_animals)
