@@ -7,3 +7,4 @@ zoo_animals[2] = "hyena"
 
 # What shall fill the void left by our dear departed tiger?
 # Your code here!
+zoo_animals[3] = "panda"
