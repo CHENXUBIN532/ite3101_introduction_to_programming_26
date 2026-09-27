@@ -5,4 +5,5 @@ square_list = []
 for x in start_list:
     print (x**2)
 square_list=.append()start_list
+
 print(square_list)
