@@ -4,6 +4,5 @@ square_list = []
 # Your code here!
 for x in start_list:
     print (x**2)
-    
 for 
 print(square_list)
