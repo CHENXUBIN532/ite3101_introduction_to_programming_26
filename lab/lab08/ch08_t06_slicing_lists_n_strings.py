@@ -7,4 +7,4 @@ cat = None
 dog = None
 
 # From the seventh character to the end
-frog = None
+frog = animals[]
