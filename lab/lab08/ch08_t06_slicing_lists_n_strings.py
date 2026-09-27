@@ -1,4 +1,4 @@
-animals = "catdogfrog"
+animals = "cat dog frog"
 
 # The first three characters of animals
 cat = None
