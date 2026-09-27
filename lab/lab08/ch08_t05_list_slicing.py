@@ -1,7 +1,7 @@
 suitcase = ["sunglasses", "hat", "passport", "laptop", "suit", "shoes"]
 
 # The first and second items (index zero and one)
-first = suitcase[0:2]
+first = suitcase[0:1]
 
 # Third and fourth items (index two and three)
 
