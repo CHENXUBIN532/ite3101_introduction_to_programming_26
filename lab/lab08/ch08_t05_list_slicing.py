@@ -5,7 +5,7 @@ first = suitcase[0:2]
 
 # Third and fourth items (index two and three)
 
-middle =suitcase[2:3]
+middle =suitcase[2:4]
 # The last two items (index four and five)
 
 last = suitcase[4:5]
