@@ -5,6 +5,6 @@ first = suitcase[0:2]
 
 # Third and fourth items (index two and three)
 middle = None
-
+middle =suitcase[]
 # The last two items (index four and five)
 last = None
