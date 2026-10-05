@@ -1,4 +1,4 @@
-zoo_animals = ["pangolin", "cassowary", "sloth","panda" ]
+zoo_animals = ["pangolin", "cassowary", "sloth","panda" ,'']
 # One animal is missing!
 
 if len(zoo_animals) > 3:
