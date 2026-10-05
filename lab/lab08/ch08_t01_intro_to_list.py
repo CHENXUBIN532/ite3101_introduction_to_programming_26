@@ -1,4 +1,4 @@
-zoo_animals = ["pangolin", "cassowary", "sloth","panda" ,"dog" ]
+zoo_animals = ["pangolin", "cassowary", "sloth","panda" ]
 
 # One animal is missing!
 
