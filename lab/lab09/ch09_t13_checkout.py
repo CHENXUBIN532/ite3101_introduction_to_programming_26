@@ -34,3 +34,5 @@ def compute_bill(food: List[str]) -> float:
 
 x= compute_bill(['banana','orange'])
 print(x)
+
+pytest tests/lab0
