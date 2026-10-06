@@ -12,5 +12,5 @@ stock = {
 }
 
 for key in prices:
-    print('price:%s'% prices[key])
-    print('stock:%s'% stock[key])
+    print('bar:%s'% prices[key])
+    print('stoc:%s'% stock[key])
