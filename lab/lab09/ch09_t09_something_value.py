@@ -20,4 +20,5 @@ total = 0
 for key in prices:
     n=prince[key] * stock[key]
     print(n)
+    to
  print(total)
