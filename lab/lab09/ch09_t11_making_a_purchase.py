@@ -20,3 +20,4 @@ def compute_bill(food):
     for item in food:
         total=total+stock[item]*prices[tiem]
     return total
+/\
