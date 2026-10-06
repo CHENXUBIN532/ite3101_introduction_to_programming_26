@@ -4,7 +4,7 @@ prices = {
     "orange": 1.5,
     "pear": 3
 }
-store ={
+stock ={
     'banana':6,
     'apple':0,
     'orange':32,
