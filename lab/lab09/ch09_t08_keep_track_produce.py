@@ -11,5 +11,5 @@ stock = {
     "pear": 15,
 }
 
-for itemp in prices:
+for key in prices:
     print('price:)
