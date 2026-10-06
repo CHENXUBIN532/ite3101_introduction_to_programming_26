@@ -1,1 +1,1 @@
-groceries
+groceries ; 'banana','orange','apple'
