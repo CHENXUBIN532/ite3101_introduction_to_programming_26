@@ -23,6 +23,5 @@ def compute_bill(food: List[str]) -> float:
     for item in food:
         if stock[item]>0
         total += prices[item]
-     
-         
+        stock[item]-=1
     return total
