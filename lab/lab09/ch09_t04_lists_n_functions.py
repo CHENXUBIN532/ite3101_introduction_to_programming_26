@@ -4,7 +4,7 @@ def fizz_count(x):
     for count in x:
         if x = fizz :
             n + =1
-     return count
+     return n
 
 
 print (count)
