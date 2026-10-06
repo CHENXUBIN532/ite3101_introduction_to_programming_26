@@ -12,4 +12,4 @@ stock = {
 }
 
 for itemp in prices:
-    print('prince')
+    print('prince':)
