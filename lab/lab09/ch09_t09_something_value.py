@@ -18,3 +18,4 @@ for key in prices:
 
 total = 0
 for n in prices:
+    
