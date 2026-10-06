@@ -22,4 +22,4 @@ for key in prices:
     print(n)
     total+=n
 
- print(total)
+print(total)
