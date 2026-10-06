@@ -7,4 +7,4 @@ def fizz_count(x):
      return n
 
 
-print (count)
+print (n)
