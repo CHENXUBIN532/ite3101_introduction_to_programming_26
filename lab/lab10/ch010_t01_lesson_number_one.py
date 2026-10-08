@@ -1,14 +1,14 @@
 lloyd = {
-    'name':
-    'homework':
-    'quizzed':
+    'name':Lloyd,
+    'homework': ,
+    'quizzed': ,
     "test":
 }
 alice = {
-    'name':
-    'homework':
-    'quizzed':
-    "test":
+    'name': ,
+    'homework': ,
+    'quizzed': ,
+    "test": ,
 }
 tyler= {
     'name':
