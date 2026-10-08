@@ -5,14 +5,14 @@ lloyd = {
     "test":""
 }
 alice = {
-    'name': ,
-    'homework': ,
-    'quizzed': ,
-    "test": ,
+    'name': "",
+    'homework': "",
+    'quizzed': "",
+    "test": "",
 }
 tyler= {
-    'name': ,
-    'homework': ,
-    'quizzed': ,
-    "test": ,
+    'name': "",
+    'homework': "",
+    'quizzed': "",
+    "test": "",
 }
