@@ -16,3 +16,5 @@ tyler = {
     "quizzes": [0.0, 75.0, 78.0],
     "tests": [100.0, 100.0]
 }
+
+student_list
