@@ -4,5 +4,10 @@ lloyd = {
     'quizzed':
     "test":
 }
-alice
+alice {
+    'name':
+    'homework':
+    'quizzed':
+    "test":
+}
 tyler
