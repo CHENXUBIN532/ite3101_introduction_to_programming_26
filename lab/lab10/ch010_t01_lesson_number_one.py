@@ -1,8 +1,8 @@
 lloyd = {
     'name': "Lloyd",
     'homework': [],
-    'quizzed': [],
-    "test":[]
+    'quizzes': [],
+    "tests":[]
 }
 alice = {
     'name': 'Alice',
