@@ -1,3 +1,3 @@
-lloyd
+lloyd = {}
 alice
 tyler
