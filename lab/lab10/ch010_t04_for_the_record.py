@@ -18,4 +18,4 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
-print
+print(students)
