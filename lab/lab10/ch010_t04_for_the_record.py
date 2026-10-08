@@ -18,3 +18,4 @@ tyler = {
 }
 students = [lloyd, alice, tyler]
 
+for students in stu
