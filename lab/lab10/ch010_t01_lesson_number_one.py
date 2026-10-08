@@ -10,4 +10,9 @@ alice = {
     'quizzed':
     "test":
 }
-tyler
+tyler= {
+    'name':
+    'homework':
+    'quizzed':
+    "test":
+}
