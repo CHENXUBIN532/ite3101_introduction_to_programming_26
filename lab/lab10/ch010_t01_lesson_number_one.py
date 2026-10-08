@@ -7,12 +7,12 @@ lloyd = {
 alice = {
     'name': 'Alice',
     'homework': [],
-    'quizzed': [],
-    "test": [],
+    'quizzes': [],
+    "tests": [],
 }
 tyler= {
     'name': 'Tyler',
     'homework': [],
-    'quizzed': [],
-    "test": [],
+    'quizzes': [],
+    "tests": [],
 }
