@@ -48,4 +48,5 @@ def get_letter_grade ('score'):
         'score' == 'A'
     elif x >= 80:
         'score' == 'B'
-    elif x >= 70
+    elif x >= 70:
+        'score'
