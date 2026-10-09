@@ -52,7 +52,8 @@ def get_letter_grade (score):
         return 'C'
     elif x >=60:
         return 'D'
-    else : return = 'F'
+    else : 
+        return = 'F'
 
 print (get_)
 
