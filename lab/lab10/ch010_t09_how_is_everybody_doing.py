@@ -67,4 +67,4 @@ def get_class_average(class_list: List[dict]) -> float:
 # Add code below!
 
 students_list =['alice','lloyd','tyler']
-print
+print ()
