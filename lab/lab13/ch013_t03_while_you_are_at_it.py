@@ -1,6 +1,6 @@
 num = 1
 
-while False:  # Fill in the condition
+while num < 11:  # Fill in the condition
     pass
 # Print num squared
 print(num**2)
