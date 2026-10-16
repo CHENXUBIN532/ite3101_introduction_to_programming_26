@@ -1,4 +1,5 @@
 hobbies = []
 
 # Add your code below!
-for i
+for i in range(3):
+    
