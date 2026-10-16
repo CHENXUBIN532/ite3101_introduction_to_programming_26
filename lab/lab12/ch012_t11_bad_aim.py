@@ -37,4 +37,4 @@ else:
     board[guess_row][guess_col] = "X"
     print_board(board)
 
-if guess_row not in range()
+if guess_row not in range(5) or guess_col not in range(5)
