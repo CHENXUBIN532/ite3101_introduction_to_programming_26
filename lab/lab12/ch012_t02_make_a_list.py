@@ -1,2 +1,2 @@
 board = []
-for x 
+for
