@@ -1,4 +1,4 @@
 hobbies = []
 
 # Add your code below!
-for
+for i
