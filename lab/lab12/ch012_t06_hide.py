@@ -12,6 +12,8 @@ def print_board(board_in: List[List[str]]) -> None:
         print(" ".join(row))
 
 # Add your code below!
+from random import randint
+
 def random_row(board_in):
     return randint(0.len(board_in)-1)
 def random_col(board_in):
