@@ -9,6 +9,6 @@ while guesses_left > 0 :
         break
     guesses_left -= 1
 else: 
-    print('You lose!')
+    print('You lose.')
 for i in range(10):
     print(i)
