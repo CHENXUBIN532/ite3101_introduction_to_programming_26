@@ -1,4 +1,4 @@
-guess_left=0
+guess_left=
 
 print("Counting...")
 while guess_
