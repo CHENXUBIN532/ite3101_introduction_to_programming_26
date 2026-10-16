@@ -5,6 +5,7 @@ for c in thing:
 
 word = "eggs!"
 
-for c in word
+for b in word:
+    print()
 
 # Your code here!
