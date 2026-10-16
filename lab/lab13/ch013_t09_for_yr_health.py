@@ -6,7 +6,7 @@ while guesses_left > 0 :
     if guess == random_number:
         print('you win')
         break
-    guess_left -= 1
+    guesses_left -= 1
 else: 
     print('you lose')
 for i in range(10):
