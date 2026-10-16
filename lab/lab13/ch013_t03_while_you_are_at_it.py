@@ -1,5 +1,5 @@
 num = 1 
-num+1=1
+
 
 while num<11:
     print(num**2)
