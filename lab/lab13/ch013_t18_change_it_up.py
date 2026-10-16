@@ -8,7 +8,3 @@ for f in fruits:
     print('A', f)
 else:
     print('A fine selection of fruits!')
-
-
-
-
