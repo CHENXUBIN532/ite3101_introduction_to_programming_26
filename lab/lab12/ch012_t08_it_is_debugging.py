@@ -27,4 +27,4 @@ print(ship_row)
 print(ship_col)
 
 guess_row = int(input("Guess Row: "))
-guess_col = int(input("Guess Col: "))0
+guess_col = int(input("Guess Col: "))
