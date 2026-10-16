@@ -2,7 +2,8 @@ num = 1
 num+1=1
 
 while num<11:
-    print(numFalse:  # Fill in the condition
+    print(num**2)
+    False:  # Fill in the condition
     pass
 # Print num squared
 # Increment num (make sure to do this!)
