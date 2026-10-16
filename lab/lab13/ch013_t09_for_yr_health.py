@@ -3,6 +3,7 @@ guess_left= 3
 print("Counting...")
 while guesses_left > 0 :
     guess = int (input('your guess: '))
+    if guess == ran
     guess_left -= 1
 else: 
     print('you lose')
