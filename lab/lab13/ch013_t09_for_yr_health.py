@@ -1,3 +1,4 @@
+guess
 print("Counting...")
 
 for i in range(10):
