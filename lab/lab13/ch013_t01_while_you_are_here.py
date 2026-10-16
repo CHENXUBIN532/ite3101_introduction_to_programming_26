@@ -2,7 +2,7 @@ count = 0
 
 if count < 9:
     print("Hello, I am an if statement and count is", count)
-else 
+else :
    break
 
 while count < =  9:
