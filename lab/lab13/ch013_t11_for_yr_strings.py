@@ -5,4 +5,6 @@ for c in thing:
 
 word = "eggs!"
 
+for c in wo
+
 # Your code here!
