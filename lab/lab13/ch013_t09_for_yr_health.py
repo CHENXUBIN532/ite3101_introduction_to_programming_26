@@ -1,3 +1,4 @@
+import random
 guesses_left= 3 
 random_number = random.randint(1,10)
 print("Counting...")
