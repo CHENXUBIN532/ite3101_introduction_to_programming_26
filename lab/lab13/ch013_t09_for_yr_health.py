@@ -5,7 +5,7 @@ print("Counting...")
 while guesses_left > 0 :
     guess = int (input('your guess: '))
     if guess == random_number:
-        print('you win')
+        print('You win')
         break
     guesses_left -= 1
 else: 
