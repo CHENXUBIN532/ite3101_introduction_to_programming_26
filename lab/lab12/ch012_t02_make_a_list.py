@@ -1,4 +1,3 @@
 board = []
 
-x = ['o','o','o','o','o']
-def 
+for i in rang(5)
