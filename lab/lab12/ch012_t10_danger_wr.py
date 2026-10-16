@@ -35,7 +35,7 @@ if guess_row == ship_row and guess_col == ship_col:
 else:
     print ('You missed my battleship!')
     X=list[guess_row,guess_col]
-    
+
 
 
 
