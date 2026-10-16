@@ -4,5 +4,7 @@ list_b = [2, 4, 8, 10, 30, 40, 50, 60, 70, 80, 90]
 for a, b in zip(list_a, list_b):
     if a > b:
         print(a, "is greater than", b)
-    # Add your code here!
-    pass
+    elif b > a:
+        print(b, "is greater than", a)
+    else:
+        print(a, "and", b, "are equal")
