@@ -6,4 +6,6 @@ def double_list(n):
         n[i] = n[i] * 2
 # Don't forget to return your new list!
     return n
-# print(double_list(n))
+
+
+print(double_list(n))
