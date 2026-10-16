@@ -1,5 +1,5 @@
 guess_left= 3 
-
+random_number = random.randint(1)
 print("Counting...")
 while guesses_left > 0 :
     guess = int (input('your guess: '))
