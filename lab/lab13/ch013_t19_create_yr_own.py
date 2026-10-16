@@ -3,5 +3,5 @@ for i in list:
     if i <= 2:
         print(i)
 else:
-    print ('end')
+    print ('End')
     
