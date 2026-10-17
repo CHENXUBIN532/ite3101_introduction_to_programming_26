@@ -27,6 +27,7 @@ print(ship_row)
 print(ship_col)
 
 # Write your code below!
+for 
 
 guess_row = int(input("Guess Row: "))
 guess_col = int(input("Guess Col: "))
