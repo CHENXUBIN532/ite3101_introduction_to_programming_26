@@ -23,8 +23,6 @@ def random_col(board_in: List[List[str]]) -> int:
 ship_row = random_row(board)
 ship_col = random_col(board)
 
-print(ship_row)
-print(ship_col)
 
 guess_row = int(input("Guess Row: "))
 guess_col = int(input("Guess Col: "))
@@ -41,4 +39,3 @@ else:
         print("You missed my battleship!")
         board[guess_row][guess_col] = "X"
         print_board(board)
-
