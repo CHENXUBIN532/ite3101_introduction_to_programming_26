@@ -43,3 +43,4 @@ else:
     print_board(board)
 
 guess_row=3
+guess_col=5
