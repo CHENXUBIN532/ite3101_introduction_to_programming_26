@@ -37,7 +37,7 @@ for turn in range(4):
     else:
 
          if guess_row not in range(5) or guess_col not in range(5):
-        print("Oops, that's not even in the ocean.")
+              print("Oops, that's not even in the ocean.")
         elif board[guess_row][guess_col] == "X":
             print("You guessed that one already.")
         else:
