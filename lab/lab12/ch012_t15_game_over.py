@@ -29,8 +29,7 @@ print(ship_col)
 # Everything from here on should be in your for loop
 # don't forget to properly indent!
 for turn in range(4):
-    if turn == 3:
-        print("Game Over")
+    
     else:
         print("Turn", turn + 1)
         guess_row = int(input("Guess Row: "))
