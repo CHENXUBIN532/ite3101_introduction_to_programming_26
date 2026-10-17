@@ -28,9 +28,8 @@ print(ship_col)
 
 # Write your code below!
 for turn in range(4):
-    print ('Turn',)
-    turn += 1
-
+    print ('Turn',turn += 1)
+   
 guess_row = int(input("Guess Row: "))
 guess_col = int(input("Guess Col: "))
 if guess_row == ship_row and guess_col == ship_col:
