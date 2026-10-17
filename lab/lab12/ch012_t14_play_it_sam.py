@@ -28,7 +28,21 @@ print(ship_col)
 
 # Write your code below!
 for turn in range(4):
-    print ('Turn')
+    print ('Turn',Background 
+You can successfully make one guess in Battleship! But we’d like our game to allow the player to make up to 4 guesses before they lose.
+for turn in range(4): 
+  # Make a guess 
+  # Test that guess
+
+We can use a for loop to iterate through a range. Each iteration will be a turn.
+
+
+
+Instructions
+1. Add a for loop that repeats the guessing and checking part of your game for 4 turns, like the example above.
+
+At the beginning of each iteration, print "Turn", turn + 1 to let the player know what turn they are on.
+Indent everything that should be repeated.)
     turn += 1
 
 guess_row = int(input("Guess Row: "))
