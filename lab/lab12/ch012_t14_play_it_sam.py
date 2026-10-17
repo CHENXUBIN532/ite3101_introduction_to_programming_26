@@ -27,7 +27,8 @@ print(ship_row)
 print(ship_col)
 
 # Write your code below!
-for 
+for turn in range(4):
+    print 
 
 guess_row = int(input("Guess Row: "))
 guess_col = int(input("Guess Col: "))
