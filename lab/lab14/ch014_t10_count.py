@@ -1,2 +1,2 @@
 def count(sequence,item):
-    for
+    for item in sequence
