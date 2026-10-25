@@ -1,2 +1,3 @@
 def is_even (x) :
-    if x = even
+    if x = 'even':
+        return
