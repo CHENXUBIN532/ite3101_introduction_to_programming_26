@@ -1,2 +1,3 @@
 def median(num_list):
-    sorted
+    sorted(num_list)
+    
