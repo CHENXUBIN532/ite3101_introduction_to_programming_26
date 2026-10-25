@@ -1,2 +1,3 @@
 def censor(text,word):
-    for char in 
+    for char in text:
+        return 
