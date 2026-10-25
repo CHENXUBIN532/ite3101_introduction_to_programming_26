@@ -1,2 +1,2 @@
 def censor(text,word):
-    newtext.split()
+    new_words = text.split()
