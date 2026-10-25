@@ -1,2 +1,2 @@
-def product(int):
+def product(num):
     
