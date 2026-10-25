@@ -3,5 +3,5 @@ def digit_sum (n):
     while n > 0:
         digit = n % 10
         x = x+digit
-        n=//10
+        n=n//10
     return x
