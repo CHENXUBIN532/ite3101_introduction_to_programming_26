@@ -4,7 +4,7 @@ def censor(text, word):
     for item in new_words:
         if item == word:
             stars = '*' len(word)
-            return '*' len(word)
+            result_list.append(stars)
         else:
             return item
         return append.new_words
