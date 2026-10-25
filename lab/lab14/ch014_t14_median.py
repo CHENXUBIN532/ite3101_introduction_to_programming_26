@@ -4,4 +4,4 @@ def median(num_list):
         median_num=num_list.Index.(len(num_list)/2-1)
          
     else  :
-        median_num=num_list.index.()
+        median_num=num_list.index.(len)
