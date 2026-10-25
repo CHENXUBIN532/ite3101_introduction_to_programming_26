@@ -5,5 +5,5 @@ def factorial(x):
         while x > 1:
         total = x*(x-1)
         x= x-1
-        return tatol
+        return total
     
