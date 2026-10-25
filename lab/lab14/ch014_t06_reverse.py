@@ -1,5 +1,5 @@
 def reverse ('text'):
-    r
+    re
     for i in 'text':
         t
 
