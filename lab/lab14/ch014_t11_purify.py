@@ -1,1 +1,2 @@
-def purify{list()}
+def purify(num):
+    
