@@ -1,6 +1,6 @@
 def reverse ('text'):
-    reverse =[]
+    reverse =''
     for i in range(len(text)
-        reverse=[]
+        reverse=''
 
 
