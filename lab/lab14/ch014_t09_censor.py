@@ -1,9 +1,8 @@
-def censor(text,word):
+def censor(text, word):
     new_words = text.split()
     for item in new_words:
         if item == word:
-            return '*' len(word);
+            return '*' len(word)
         else:
-            return item;
+            return item
         return append.new_words
-    
