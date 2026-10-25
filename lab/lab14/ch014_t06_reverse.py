@@ -1,2 +1,2 @@
-def reverse (str(text)):
+def reverse (str('text')):
     
