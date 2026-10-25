@@ -1,1 +1,1 @@
-def purify(list)
+def purify{list()}
