@@ -4,4 +4,5 @@ def remove_duplicates(num_list):
         
         if i in new_list:
             return new_list.append(i);
-        else 
+        else :
+            
