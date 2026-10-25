@@ -4,4 +4,4 @@ def digit_sum (n):
         digit = n % 10
         x = x+digit
         n=//10
-    return x;
+    return x
