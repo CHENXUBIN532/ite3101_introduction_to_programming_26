@@ -3,4 +3,4 @@ def purify(num):
     for i in num:
         if i %2 =0:
             
-            result.append
+            result.append(i)
