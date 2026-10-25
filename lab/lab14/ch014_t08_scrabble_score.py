@@ -9,5 +9,5 @@ def scrabble_score(word):
     total = 0
     for char in word:
         lower_char = char.lower()
-        total = total + score_values[lower_char]
+        total = total + score[lower_char]
     return total
