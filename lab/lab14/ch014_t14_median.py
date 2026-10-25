@@ -1,1 +1,2 @@
-def median()
+def median(num_list):
+    
