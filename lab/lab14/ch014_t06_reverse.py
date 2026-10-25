@@ -1,3 +1,3 @@
 def reverse ('text'):
-    for 
+    for i in 
 
