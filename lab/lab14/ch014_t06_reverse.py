@@ -1,3 +1,4 @@
 def reverse ('text'):
-    for i in 
+    for i in 'text':
+        
 
