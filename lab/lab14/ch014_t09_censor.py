@@ -4,4 +4,5 @@ def censor(text,word):
         if item == word:
             return '*' len(word);
         else:
-            
+            return item;
+    
