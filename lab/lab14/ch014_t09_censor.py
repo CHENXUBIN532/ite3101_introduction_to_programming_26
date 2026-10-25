@@ -5,4 +5,5 @@ def censor(text,word):
             return '*' len(word);
         else:
             return item;
+        return append.new_words
     
