@@ -1,2 +1,3 @@
 def purify(num):
-    for i in num
+    for i in num:
+        
