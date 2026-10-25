@@ -6,4 +6,4 @@ def factorial(x):
         while x > 1:
             total = total * x
             x = x-1
-            return total
+        return total
