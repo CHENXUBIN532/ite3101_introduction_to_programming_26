@@ -6,5 +6,5 @@ def censor(text, word):
             stars = '*' len(word)
             result_list.append(stars)
         else:
-            result_list.append()
+            result_list.append(new_words)
         return append.new_words
