@@ -3,5 +3,5 @@ def factorial (x);
     if x = 1 :
         return 1
     else :
-        total = x
+        total = x*(x-1)
         
