@@ -1,5 +1,6 @@
 def reverse ('text'):
     reverse =[]
-    for i in stri(text):
+    for i in str(text):
         reverse=[]
+        
 
