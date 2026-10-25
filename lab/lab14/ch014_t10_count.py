@@ -1,3 +1,3 @@
 def count(sequence,item):
-    for  in sequence:
+    for char in sequence:
         
