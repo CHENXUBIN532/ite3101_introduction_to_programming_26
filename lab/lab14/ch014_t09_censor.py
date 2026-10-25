@@ -1,6 +1,6 @@
 def censor(text, word):
     new_words = text.split()
-    
+    result_list
     for item in new_words:
         if item == word:
             return '*' len(word)
