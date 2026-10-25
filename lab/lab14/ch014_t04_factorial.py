@@ -1,5 +1,4 @@
-def factorial(x)
-  total = 0
+def factorial(x):
    if x = 1:
         return 1
     else:
