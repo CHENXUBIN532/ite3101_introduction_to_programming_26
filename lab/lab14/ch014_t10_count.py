@@ -4,3 +4,4 @@ def count(sequence,item):
     for i in sequence:
         if i==char:
             total+=1
+        return 
