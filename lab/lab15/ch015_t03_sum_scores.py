@@ -8,4 +8,4 @@ def grades_sum(scores):
         return total
 
 
-print(grades_sun(grades))
+print(grades_sum(grades))
