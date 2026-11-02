@@ -6,4 +6,5 @@ my_dict = {
 print(my_dict.keys())
 print(my_dict.values())
 
-for 
+for key in my_dict:
+    
