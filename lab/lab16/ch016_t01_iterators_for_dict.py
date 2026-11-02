@@ -1,1 +1,3 @@
-my_dict
+my_dict={
+    'Name','Peter'
+}
