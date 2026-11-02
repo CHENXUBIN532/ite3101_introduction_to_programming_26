@@ -16,7 +16,7 @@ def print_grades(grades_input: List[float]):
 
 
 def grades_variance(scores):
-    
+    gra==
 def grades_sum(scores: List[float]) -> float:
     total = 0
     for score in scores:
