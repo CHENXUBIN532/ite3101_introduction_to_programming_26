@@ -1,1 +1,1 @@
-squares = 
+squares = ()
