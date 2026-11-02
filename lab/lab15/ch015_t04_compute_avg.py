@@ -17,4 +17,4 @@ def grades_sum(scores: List[float]) -> float:
 
 print(grades_sum(grades))
 
-def grades_average()
+def grades_average(grades_input):
