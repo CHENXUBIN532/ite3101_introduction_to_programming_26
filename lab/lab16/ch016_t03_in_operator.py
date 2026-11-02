@@ -9,5 +9,4 @@ print(my_dict.values())
 for key in my_dict:
     print(key,  my_dict[key], end=" ",)
 
-for value in my_dict:
-    print 
+f
