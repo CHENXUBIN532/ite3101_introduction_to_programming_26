@@ -1,2 +1,2 @@
-cubes_by_four = [i**3 for i in range(0, 11) if i % 4 == 0]
+cubes_by_four = [i]
 print(cubes_by_four)
