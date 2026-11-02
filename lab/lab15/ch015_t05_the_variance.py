@@ -19,7 +19,7 @@ def grades_variance(scores):
     average = grades_average(scores)
     variance = 0
     for score in scores:
-        
+        average - score
 def grades_sum(scores: List[float]) -> float:
     total = 0
     for score in scores:
