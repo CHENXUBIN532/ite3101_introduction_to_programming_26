@@ -5,4 +5,4 @@ movies = {
 }
 
 for key,value in movies.items():
-    print
+    print(key,value)
