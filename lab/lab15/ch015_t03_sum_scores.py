@@ -4,4 +4,5 @@ def grades_sum(scores):
     for i in scores:
         total +=i
         return total;
-print
+print(grades_sun(grades));
+s
