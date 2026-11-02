@@ -41,3 +41,4 @@ def grades_stu_deviation(variance):
 
 variance = grades_variance(grades)
 
+print
