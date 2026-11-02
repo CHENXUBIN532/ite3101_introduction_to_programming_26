@@ -1,1 +1,1 @@
-cubes_by_four=[c for i in rang]
+cubes_by_four=[c for i in rang(0,11)]
