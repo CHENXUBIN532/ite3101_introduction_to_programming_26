@@ -1,4 +1,4 @@
 languages = ["HTML", "JavaScript", "Python", "Ruby"]
 
 # Add arguments to the filter()
-print(list(filter([2], languages)))
+print(list(filter([lambda], languages)))
