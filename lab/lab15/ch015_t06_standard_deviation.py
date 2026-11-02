@@ -40,3 +40,4 @@ def grades_stu_deviation(variance):
     return variance ** 0.5
 
 variance = grades_variance(grades)
+
