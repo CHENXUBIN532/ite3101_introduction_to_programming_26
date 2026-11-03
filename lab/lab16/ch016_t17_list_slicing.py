@@ -1,2 +1,2 @@
 garbled = "!XeXgXaXsXsXeXmX XtXeXrXcXeXsX XeXhXtX XmXaX XI"
-message=
+message=garbled[]
