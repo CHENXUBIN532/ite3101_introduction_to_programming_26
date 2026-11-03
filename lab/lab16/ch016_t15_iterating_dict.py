@@ -4,5 +4,4 @@ movies = {
     "Monty Python's Meaning of Life": "Okay"
 }
 
-for key, value in movies.items():
-    print(key, value)
+print(mo)
