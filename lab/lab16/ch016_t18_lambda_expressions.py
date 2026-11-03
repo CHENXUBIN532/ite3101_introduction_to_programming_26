@@ -1,2 +1,2 @@
 garbled = "IXXX aXXmX aXXXnXoXXXXXtXhXeXXXXrX sXXXXeXcXXXrXeXt mXXeXsXXXsXaXXXXXXgXeX!XX"
-message=garbled(filter(lambda x:))
+message=garbled(filter(lambda x:x==))
