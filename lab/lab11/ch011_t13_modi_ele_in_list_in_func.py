@@ -1,4 +1,4 @@
-n = [3, 5, 7]
+x = [3, 5, 7]
 
 
 def double_list(n):
