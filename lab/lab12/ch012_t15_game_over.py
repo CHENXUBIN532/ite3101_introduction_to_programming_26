@@ -33,7 +33,6 @@ for turn in range(4):
         print("Congratulations! You sank my battleship!")
         break
     else:
-        # 下面这一组是判断猜错的各种情况
         if guess_row not in range(5) or guess_col not in range(5):
             print("Oops, that's not even in the ocean.")
         elif board[guess_row][guess_col] == "X":
@@ -41,7 +40,6 @@ for turn in range(4):
         else:
             print("You missed my battleship!")
             board[guess_row][guess_col] = "X"
-        # ✅ 按题目要求：放在这个else里面、猜错判断之后，turn==3就打印Game Over
         if turn == 3:
-            print("Game Over.")
+            print("Game Over")  # 去掉句号！
     print_board(board)
