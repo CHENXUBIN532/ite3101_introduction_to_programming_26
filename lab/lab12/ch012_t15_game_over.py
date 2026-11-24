@@ -23,6 +23,7 @@ def random_col(board_in: List[List[str]]) -> int:
 ship_row = random_row(board)
 ship_col = random_col(board)
 
+# 这里一定不要加 print(ship_row) print(ship_col)
 
 for turn in range(4):
     print("Turn", turn + 1)
@@ -41,5 +42,5 @@ for turn in range(4):
             print("You missed my battleship!")
             board[guess_row][guess_col] = "X"
         if turn == 3:
-            print("Game Over")  # 去掉句号！
+            print("Game Over")
     print_board(board)
