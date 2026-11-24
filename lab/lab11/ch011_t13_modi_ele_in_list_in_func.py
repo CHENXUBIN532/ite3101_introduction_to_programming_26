@@ -7,3 +7,4 @@ def double_list(x):
         result.append(item * 2)
     return result
 
+print (result)
