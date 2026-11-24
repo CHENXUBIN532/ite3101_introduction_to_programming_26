@@ -6,3 +6,4 @@ def double_list(x):
     for item in x:
         result.append(item * 2)
     return result
+
